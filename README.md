@@ -1,5 +1,8 @@
 # Descripcion
-Prueba de inicio y bienvenida de una app
+Esta es una simple prueba de inicio y bienvenida de una app
+
+El codigo original de la libreria se encuentra en el siguiente enlace de GitHub
+[GitHub](https://github.com/stephentuso/welcome-android)
 ##Inicio
 
 ![Alt "pantalla principal"](screenshot/img1.png)
